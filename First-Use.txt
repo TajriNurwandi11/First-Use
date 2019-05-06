@@ -1,4 +1,4 @@
 Belajar mengenal Github
 - Membuat Github Account
 - Mengistal Git
-- mencoba menambah comit
+- mencoba Menghapus Comit
