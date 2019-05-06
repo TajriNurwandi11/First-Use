@@ -1,4 +1,5 @@
 Mencoba Brench
 Mencoba Brench edit
-manambahkah fitur 3
-manambahkah fitur 4
+mencoba brenc conflict
+Menambahkan fitur 1
+Menambahkan fitur 2
